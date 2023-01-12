@@ -1,0 +1,14 @@
+Quantum computing is a type of computing that uses quantum-mechanical phenomena, 
+such as superposition and entanglement, to perform operations on data. 
+In a classical computer, data is stored as bits, which can have one of two values:
+ 0 or 1. In a quantum computer, data is stored as quantum bits, or qubits, which can exist 
+ in a state of superposition. This means that a qubit can represent a 0 and a 1 simultaneously. 
+ Additionally, multiple qubits can become entangled, meaning that the state of one qubit can be 
+ dependent on the state of the other qubits, even if they are separated by large distances. Because 
+ of these properties, quantum computers can perform certain types of calculations much faster than 
+ classical computers.
+
+This is a very high level and simplified explanation, quantum computing has much more 
+deeper and complex concepts like Schrodinger equation, wave functions, Unitary Matrices, etc. 
+But in a nutshell, it is a method of computation that makes use of properties of quantum mechanics 
+which allows for far more powerful ways of computation then classical computers.
