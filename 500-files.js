@@ -9,3 +9,9 @@ try {
 for (var i = 100; i < 600; ++i) {
   fs.writeFile('./500_files/' + i + '.txt', 'Hello from file ' + i + '!', () => {});
 }
+
+let myBool = true;
+
+if (myBool) {
+  console.log('Ashley was here!');
+}
